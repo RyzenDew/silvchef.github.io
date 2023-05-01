@@ -1,0 +1,20 @@
+<rss version="2.0">
+    <channel>
+        <title>Arcra-First-Release</title>
+        <link>
+        https://silvchef.github.io/torrents_feed.xml
+        </link>
+        <description>Latest torrents for Arcra Iso's </description>
+    </channel>
+    <item>
+        <title>Arcra-Gnome-First-Release</title>
+        <link>
+        magnet:?xt=urn:btih:28652de8f507e63afa163d962f063650809f94d8&dn=arcra-gnome&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Ftracker.blackunicorn.xyz%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969
+        </link>
+        <guid>
+          magnet:?xt=urn:btih:28652de8f507e63afa163d962f063650809f94d8&dn=arcra-gnome&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Ftracker.blackunicorn.xyz%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969t
+        </guid>
+        <description />
+        <pubDate>Mon 1st May 2023 23:10</pubDate>
+    </item>
+</rss>
