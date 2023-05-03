@@ -1,16 +1,16 @@
 <rss version="2.0">
     <channel>
-        <title>Arcra-First-Release</title>
+        <title>Arcra-Second-Release</title>
         <link>
         https://silvchef.github.io/torrents_feed.xml
         </link>
         <description>Latest torrents for Arcra Iso's </description>
     </channel>
     <item>
-        <title>Arcra-Gnome-First-Release</title>
-        <link>https://silvchef.github.io/arcra-gnome.torrent</link>
-        <guid>https://silvchef.github.io/arcra-gnome.torrent</guid>
+        <title>Arcra-Gnome-Second-Release</title>
+        <link>https://silvchef.github.io/arcra-gnome-2023.05.02-x86_64.iso.torrent</link>
+        <guid>https://silvchef.github.io/arcra-gnome-2023.05.02-x86_64.iso.torrent</guid>
         <description />
-        <pubDate>Wed 3 May 2023 01:06</pubDate>
+        <pubDate>Wed 3 May 2023 01:33</pubDate>
     </item>
 </rss>
